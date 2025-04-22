@@ -22,3 +22,8 @@
   <img src="https://img.shields.io/badge/Machine Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />&nbsp;
   <img src="https://img.shields.io/badge/Artificial Intelligence-1D5B96?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" />
 </div>
+
+<h3 align="center">🎓 가고 싶은 학교 🎓</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/%EC%84%A0%EB%A6%B0%EC%9D%B8%ED%84%B0%EB%84%B7%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90-00599C?style=for-the-badge&logo=education&logoColor=white" alt="선린인터넷고등학교" />
+</div>
