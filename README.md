@@ -25,5 +25,20 @@
 
 <h3 align="center">🎓 가고 싶은 학교 🎓</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/%EC%84%A0%EB%A6%B0%EC%9D%B8%ED%84%B0%EB%84%B7%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90-00599C?style=for-the-badge&logo=education&logoColor=white" alt="선린인터넷고등학교" />
+  <a href="https://sunrint.sen.hs.kr/" target="_blank">
+    <img src="https://img.shields.io/badge/%EC%84%A0%EB%A6%B0%EC%9D%B8%ED%84%B0%EB%84%B7%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90-00599C?style=for-the-badge&logo=education&logoColor=white" 
+      alt="선린인터넷고등학교" class="button-image" />
+  </a>
 </div>
+
+<style>
+  .button-image {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .button-image:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+</style>
+
