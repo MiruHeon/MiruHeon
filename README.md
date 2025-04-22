@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%A9%94%EC%9D%B8%20%EA%B3%A0%EC%A0%95%EC%9A%A9%20%EC%82%AC%EC%A7%84.jpg?raw=true" alt="Title Image" />
+  <img src="https://s3.ap-northeast-2.amazonaws.com/blog.spartacodingclub.kr/1724404469856-%C3%A1%C2%84%C2%80%C3%A1%C2%85%C2%B5%C3%A1%C2%86%C2%BA%C3%A1%C2%84%C2%92%C3%A1%C2%85%C2%A5%C3%A1%C2%84%C2%87%C3%A1%C2%85%C2%B3%20%281%29.png" alt="Title Image" />
 </div>
 
 <h3 align="center">✨ 배운 프로그래밍 언어 ✨</h3>
