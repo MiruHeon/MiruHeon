@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" alt="Title Image" />
+  <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%A9%94%EC%9D%B8%20%EA%B3%A0%EC%A0%95%EC%9A%A9%20%EC%82%AC%EC%A7%84.jpg?raw=true" alt="Title Image" />
 </div>
 
 <h3 align="center">✨ 배운 프로그래밍 언어 ✨</h3>
