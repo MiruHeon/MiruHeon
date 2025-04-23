@@ -42,5 +42,9 @@
   <a href="https://sunrint.sen.hs.kr/" target="_blank">
     <img src="https://img.shields.io/badge/선린인터넷고등학교-00599C?style=for-the-badge&logo=education&logoColor=white" alt="선린인터넷고등학교" style="height:32px;" />
   </a>
+  &nbsp;
+  <a href="https://www.yonsei.ac.kr/" target="_blank">
+    <img src="https://img.shields.io/badge/연세대학교-003478?style=for-the-badge&logo=academia&logoColor=white" alt="연세대학교" style="height:32px;" />
+  </a>
 </div>
 
