@@ -1,7 +1,7 @@
-<h1 align="center">👋 류용헌의 깃허브 사이트~</h1>
+<h1 align="center">류용헌의 깃허브 사이트</h1>
 
 <p align="center">
-  <strong>나이는 15세, 취미는 프로그래밍입니다 💻</strong>
+  <strong>나이는 15세, 취미는 프로그래밍입니다</strong>
 </p>
 
 <div align="center">
