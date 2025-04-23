@@ -1,5 +1,9 @@
 <h1 align="center">👋 류용헌의 쩌는 깃허브 사이트~</h1>
 
+<p align="center">
+  <strong>나이는 15세, 취미는 프로그래밍입니다 💻</strong>
+</p>
+
 <div align="center">
   <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%A9%94%EC%9D%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80.png?raw=true" alt="Title Image" width="800px" />
 </div>
