@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%A9%94%EC%9D%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80.png?raw=true" alt="Title Image" width="800px" />
+</div>
+
 <h2 align="center">✨ Learnd Language ✨</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />&nbsp;
