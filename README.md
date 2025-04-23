@@ -2,30 +2,30 @@
   <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%A9%94%EC%9D%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80.png?raw=true" alt="Title Image" width="800px" />
 </div>
 
-<h2 align="center">✨ Learnd Language ✨</h2>
+<h2 align="center">✨ 익힌 프로그래밍 언어 ✨</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />&nbsp;
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++" />&nbsp;
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++" />&nbsp;
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFE873" alt="Python" />&nbsp;
+  <img src="https://img.shields.io/badge/Java-3C3C3C?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </div>
 
-<h2 align="center">💡 Stydying Language 💡</h2>
+<h2 align="center">💡 배우고 있는 언어 💡</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-CFCFCF?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-4B4B4B?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-2862E9?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
+  <img src="https://img.shields.io/badge/SQL-2D9CDB?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </div>
 
-<h2 align="center">🎺 A field of interest 🎺</h2>
+<h2 align="center">🎺 관심 분야 🎺</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=linux&logoColor=white" alt="Security" />&nbsp;
-  <img src="https://img.shields.io/badge/Machine Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />&nbsp;
-  <img src="https://img.shields.io/badge/Artificial Intelligence-1D5B96?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Security-263238?style=for-the-badge&logo=linux&logoColor=white" alt="Security" />&nbsp;
+  <img src="https://img.shields.io/badge/Machine Learning-2E3A59?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />&nbsp;
+  <img src="https://img.shields.io/badge/AI-0A66C2?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" />
 </div>
 
-<h2 align="center">🎓 Target School 🎓</h2>
+<h2 align="center">🎓 목표 학교 🎓</h2>
 <div align="center">
   <a href="https://sunrint.sen.hs.kr/" target="_blank">
     <img src="https://img.shields.io/badge/선린인터넷고등학교-00599C?style=for-the-badge&logo=education&logoColor=white" alt="선린인터넷고등학교" />
