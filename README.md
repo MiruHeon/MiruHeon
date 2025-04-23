@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </div>
 
-<h2 align="center">📚 배우고 있는 언어 📚</h2>
+<h2 align="center">💡 배우고 있는 언어 💡</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </div>
 
-<h2 align="center">❤️ 관심 분야 ❤️</h2>
+<h2 align="center">🎺 관심 분야 🎺</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=linux&logoColor=white" alt="Security" />&nbsp;
   <img src="https://img.shields.io/badge/Machine Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />&nbsp;
