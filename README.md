@@ -1,4 +1,4 @@
-<h1 align="center">👋 류용헌의 쩌는 깃허브 사이트~</h1>
+<h1 align="center">👋 류용헌의 깃허브 사이트~</h1>
 
 <p align="center">
   <strong>나이는 15세, 취미는 프로그래밍입니다 💻</strong>
@@ -51,6 +51,8 @@
     <img src="https://img.shields.io/badge/연세대학교-003478?style=for-the-badge&logo=academia&logoColor=white" alt="연세대학교" style="height:32px;" />
   </a>
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%A9%94%EC%9D%B8%20%ED%94%84%EB%A1%9C%ED%95%842.png?raw=true" />
