@@ -81,3 +81,17 @@
     </tr>
   </table>
 </div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%A9%94%EC%9D%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%805.png?raw=true" alt="추가 이미지" width="300px" />
+      </td>
+      <td style="padding-left: 20px; text-align: left;">
+        <h3>모의 주식체험</h3>
+        <p>이 사진은 DEV C++로 만든 모의 주식체험 입니다. C언어를 전문적으로 배운적은 없지만, 독학으로 랜덤함수 그리고 scanf 함수를 반복숙달로 익혀 만들었습니다.</p>
+      </td>
+    </tr>
+  </table>
+</div>
