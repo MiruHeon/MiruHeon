@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" style="height:32px;" />&nbsp;
   <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++" style="height:32px;" />&nbsp;
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFE873" alt="Python" style="height:32px;" />&nbsp;
-  <img src="https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="height:32px;" />
+  <img src="https://img.shields.io/badge/Java-654321?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="height:32px;" />
 </div>
 
 <h2 align="center">
