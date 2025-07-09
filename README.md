@@ -17,7 +17,7 @@
   </a>
   &nbsp;
   <a href="https://www.korea.ac.kr/sites/ko/index.do" target="_blank">
-    <img src="https://img.shields.io/badge/고려대학교 컴퓨터공학과-990000?style=for-the-badge&logo=academia&logoColor=white" alt="고려대학교" style="height:32px;" />
+    <img src="https://img.shields.io/badge/고려대학교 정보대학-00599C?style=for-the-badge&logo=academia&logoColor=white" alt="고려대학교" style="height:32px;" />
   </a>
 </div>
 
