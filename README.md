@@ -65,3 +65,17 @@
     </tr>
   </table>
 </div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%A9%94%EC%9D%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%207.png?raw=true" alt="추가 이미지" width="300px" />
+      </td>
+      <td style="padding-left: 20px; text-align: left;">
+        <h3>파이 비트</h3>
+        <p>이 사진은 파이썬 모듈 pygame을 이용하여 만든 리듬게임 입니다. pygame 독학 2일차에 만든 게임입니다. 판정까지는 만들었으나 음악이 나오지 않는다는 단점이 있습니다.</p>
+      </td>
+    </tr>
+  </table>
+</div>
