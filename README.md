@@ -8,19 +8,6 @@
   <strong>나이는 15세, 취미는 프로그래밍입니다 선린인터넷고등학교를 목표학교로 하고있습니다.</strong>
 </p>
 
-<h2 align="center">
-  🎓 <span style="font-weight:bold; font-size: 24px;">목표 학교 ✦</span>
-</h2>
-<div align="center">
-  <a href="https://sunrint.sen.hs.kr/" target="_blank">
-    <img src="https://img.shields.io/badge/선린인터넷고등학교-00599C?style=for-the-badge&logo=education&logoColor=white" alt="선린인터넷고등학교" style="height:32px;" />
-  </a>
-  &nbsp;
-  <a href="https://www.korea.ac.kr/sites/ko/index.do" target="_blank">
-    <img src="https://img.shields.io/badge/고려대학교 정보대학-00599C?style=for-the-badge&logo=academia&logoColor=white" alt="고려대학교" style="height:32px;" />
-  </a>
-</div>
-
 <br>
 
 <div align="center">
