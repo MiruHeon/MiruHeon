@@ -14,34 +14,6 @@
   <table>
     <tr>
       <td>
-        <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%A9%94%EC%9D%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%803.png" alt="추가 이미지" width="300px" />
-      </td>
-      <td style="padding-left: 20px; text-align: left;">
-        <h3>끝말잇기</h3>
-        <p>이 사진은 파이썬 IDLE로 만든 끝말잇기 게임입니다. 네이버 사전집을 다운로드해 리스트로 정리한 뒤, 이를 활용해 끝말잇기 기능을 구현했습니다. 효율적으로 게임을 만들기 위하여 네이버 사전집을 txt 형식으로 다운받은 뒤, 파일 입출력 기능을 사용하여 길고 긴 사전을 한번에 정리하였습니다.</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%A9%94%EC%9D%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%804.png?raw=true" alt="추가 이미지" width="300px" />
-      </td>
-      <td style="padding-left: 20px; text-align: left;">
-        <h3>용헌이가 좋아하는 랜덤 게임</h3>
-        <p>이 사진은 파이썬 IDLE로 만든 랜덤 게임 모음집 입니다. 위에 소개한 끝말잇기도 랜덤게임에 포함되어 있고, 2개의 게임 (인디언포커와 합차맞추기) 게임이 포함되어 있습니다.</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
         <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%A9%94%EC%9D%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%805.png?raw=true" alt="추가 이미지" width="300px" />
       </td>
       <td style="padding-left: 20px; text-align: left;">
