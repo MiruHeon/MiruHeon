@@ -1,12 +1,4 @@
-<h1 align="center">
- __     ______         _____  ____  _      
- \ \   / / __ \       / ____|/ __ \| |     
-  \ \_/ / |  | |_   _| (___ | |  | | |     
-   \   /| |  | | | | |\___ \| |  | | |     
-    | | | |__| | |_| |____) | |__| | |____ 
-    |_|  \____/ \__,_|_____/ \____/|______|
-                                           
-</h1>
+<h1 align="center">YOuSOL's 깃허브</h1>
 
 <div align="center">
   <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%A9%94%EC%9D%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80.png?raw=true" alt="이미지">
