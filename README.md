@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <strong>I am studying to go to Sunrin Internet High School.</strong>
+  <h2 align="center"><strong>I am studying to go to Sunrin Internet High School.</strong></h2>
 </p>
 
 <br>
