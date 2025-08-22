@@ -6,8 +6,6 @@
   <h3 align="center"><strong>I am studying to go to Sunrin Internet High School.</strong></h3>
 </p>
 
-![Yousol's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiruHeon&show_icons=true&theme=transparent)
-
 <div align="center">
   <table>
     <tr>
