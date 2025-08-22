@@ -50,7 +50,7 @@
 
 <br>
 
-![YOUSOL's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiruHeon-100&show_icons=true&theme=radical)
+![YOUSOL's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiruHeon&show_icons=true&theme=radical)
 
 <div align="center">
   <a href="https://solved.ac/kirias24">
