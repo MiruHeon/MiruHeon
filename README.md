@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  ### I am studying to go to Sunrin Internet High School.
+  <b>### I am studying to go to Sunrin Internet High School.</b>
 </p>
 
 <div align="center">
