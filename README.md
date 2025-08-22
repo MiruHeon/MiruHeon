@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <strong>나이는 15세, 취미는 프로그래밍입니다 선린인터넷고등학교를 목표학교로 하고있습니다.</strong>
+  <strong>I am studying to go to Sunrin Internet High School.</strong>
 </p>
 
 <br>
