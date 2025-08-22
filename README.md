@@ -1,4 +1,9 @@
 # YOUSOL👋
+
+<p align="center">
+  <b>I am studying to go to Sunrin Internet High School.</b>
+</p>
+
 ### Who Am I
 - 🌱 I am a student in South Korea.
 - 🥇 I like programming.
@@ -13,10 +18,6 @@
 - 📺 Programming
 - 🔵 Electronic Engineering
 - 🍕 Romance
-
-<p align="center">
-  <b>I am studying to go to Sunrin Internet High School.</b>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MiruHeon&show_icons=true&theme=radical" alt="YOUSOL's GitHub stats" width="45%" />
