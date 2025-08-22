@@ -58,7 +58,8 @@
 
 <br>
 
-<p align="center">
-  <u><b>Award</b></u>
-</p>
+<h2 align="center">Award</h2>
+
+<p align="center">───────</p>
+
 
