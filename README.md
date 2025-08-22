@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%A9%94%EC%9D%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80.png?raw=true" alt="이미지">
-</div>
-
 ## YOUSOL👋
 
 <p align="center">
@@ -73,6 +69,10 @@
 <p align="center" style="font-weight: 500;">
   홍대부중 프레젠테이션 대회 부분 동상
 </p>
+
+<div align="center">
+  <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%A9%94%EC%9D%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80.png?raw=true" alt="이미지">
+</div>
 
 
 
