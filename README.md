@@ -60,6 +60,6 @@
 
 <h2 align="center">Award</h2>
 
-<p align="center">───────</p>
+
 
 
