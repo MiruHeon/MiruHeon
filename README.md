@@ -1,7 +1,7 @@
-<table>
-  <tr>
-    <td>
+<div style="display: flex; align-items: flex-start;">
 
+  <!-- 왼쪽 텍스트 -->
+  <div style="flex: 1; padding-right: 20px;">
 # YOUSOL👋
 
 ### Who Am I
@@ -18,18 +18,16 @@
 - 📺 Programming
 - 🔵 Electronic Engineering
 - 🍕 Romance
+  </div>
 
-    </td>
-    <td>
+  <!-- 오른쪽 이미지 -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=MiruHeon&show_icons=true&theme=radical" alt="YOUSOL's GitHub stats" width="300" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiruHeon&layout=compact" alt="Top Langs" width="250"/>
+  </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiruHeon&show_icons=true&theme=radical" alt="YOUSOL's GitHub stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiruHeon&layout=compact" alt="Top Langs" width="35%"/>
-</p>
-
-    </td>
-  </tr>
-</table>
+</div>
 
 <div align="center">
   <table>
