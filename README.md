@@ -6,6 +6,11 @@
   <b>I am studying to go to Sunrin Internet High School.</b>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiruHeon&show_icons=true&theme=radical" alt="YOUSOL's GitHub stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiruHeon&layout=compact" alt="Top Langs" width="35%" />
+</p>
+
 <div align="center">
   <table>
     <tr>
@@ -49,11 +54,6 @@
 </div>
 
 <br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiruHeon&show_icons=true&theme=radical" alt="YOUSOL's GitHub stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact" alt="Top Langs" width="35%" />
-</p>
 
 <div align="center">
   <a href="https://solved.ac/kirias24">
