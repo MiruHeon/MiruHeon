@@ -4,9 +4,10 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=800&pause=1000&color=24F7E7&width=435&lines=Hi+i'm+YOUSOL" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=800&pause=1000&color=24F7E7&width=800&lines=Hi+i'm+YOUSOL" alt="Typing SVG" />
   </a>
 </p>
+
 
 <p align="center">
   <strong>나이는 15세, 취미는 프로그래밍입니다 선린인터넷고등학교를 목표학교로 하고있습니다.</strong>
