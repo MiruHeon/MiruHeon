@@ -2,12 +2,6 @@
   <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%A9%94%EC%9D%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80.png?raw=true" alt="이미지">
 </div>
 
-<div align="center">
-  <a href="https://solved.ac/kirias24">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kirias24" alt="Solved.ac 프로필"/>
-  </a>
-</div>
-
 <p align="center">
   <strong>나이는 15세, 취미는 프로그래밍입니다 선린인터넷고등학교를 목표학교로 하고있습니다.</strong>
 </p>
@@ -54,4 +48,12 @@
       </td>
     </tr>
   </table>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://solved.ac/kirias24">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kirias24" alt="Solved.ac 프로필"/>
+  </a>
 </div>
