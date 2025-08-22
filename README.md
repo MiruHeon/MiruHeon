@@ -3,10 +3,9 @@
 </div>
 
 <p align="center">
-  <h2 align="center"><strong>I am studying to go to Sunrin Internet High School.</strong></h2>
+  <h3 align="center"><strong>I am studying to go to Sunrin Internet High School.</strong></h3>
 </p>
 
-<br>
 
 <div align="center">
   <table>
