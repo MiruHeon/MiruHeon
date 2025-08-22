@@ -2,7 +2,7 @@
   <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%A9%94%EC%9D%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80.png?raw=true" alt="이미지">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+i'm+YOUSOL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=800&pause=1000&color=24F7E7&width=435&lines=Hi+i'm+YOUSOL)](https://git.io/typing-svg)
 
 <p align="center">
   <strong>나이는 15세, 취미는 프로그래밍입니다 선린인터넷고등학교를 목표학교로 하고있습니다.</strong>
