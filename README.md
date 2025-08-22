@@ -6,9 +6,7 @@
   <h3 align="center"><strong>I am studying to go to Sunrin Internet High School.</strong></h3>
 </p>
 
-<p align="center">
-  <img src="http://mazandi.herokuapp.com/api?handle=kirias24&theme=dark" alt="mazandi profile"/>
-</p>
+![Yousol's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiruHeon&show_icons=true&theme=transparent)
 
 <div align="center">
   <table>
