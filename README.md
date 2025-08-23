@@ -6,11 +6,6 @@
   <b>I am studying to go to Sunrin Internet High School.</b>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiruHeon&show_icons=true&theme=radical" alt="YOUSOL's GitHub stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiruHeon&layout=compact" alt="Top Langs" width="35%" />
-</p>
-
 <div align="center">
   <table>
     <tr>
@@ -56,6 +51,12 @@
 <br>
 
 <div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=MiruHeon&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiruHeon&layout=compact" width="35%" />
+
+  <br><br>
+
   <a href="https://solved.ac/kirias24">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kirias24" alt="Solved.ac 프로필"/>
   </a>
