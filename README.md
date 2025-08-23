@@ -55,8 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MiruHeon&show_icons=true&theme=radical" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiruHeon&layout=compact" width="35%" />
 
-  <br><br>
-
   <a href="https://solved.ac/kirias24">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kirias24" alt="Solved.ac 프로필"/>
   </a>
