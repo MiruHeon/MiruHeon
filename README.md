@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hello! I'm live in Republic of Korea and I'm student in Hongik Middle School.</p>
+<p align="left">Hello! I'm live in Republic of Korea and I'm student in Hongik Middle School. (안녕하세요! 저는 한국에 살고, 홍익중에 재학중입니다.)</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Currently attending Hongik Middle School!<br>📚 Studying algorithms!<br>🎯 I love my friends!<br>🎲 Fun fact: Preparing for Sunrin Internet High School</p>
+<p align="left">✨ Currently attending Hongik Middle School!(홍익중에 다닌다!)<br>📚 Studying algorithms!(알고리즘을 공부한다!)<br>🎯 I love my friends!(친구들을 사랑한다!)<br>🎲 Fun fact: Preparing for Sunrin Internet High School!(선린인고 입학을 준비한다!)</p>
 
 ###
 
