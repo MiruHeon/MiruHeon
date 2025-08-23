@@ -42,6 +42,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/MiruHeon/MiruHeon/output/snake.svg" alt="Snake animation" />
+
+###
+
 <br>
 
 <div align="center">
