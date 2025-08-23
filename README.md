@@ -1,6 +1,7 @@
 # YOUSOL👋
 
 <p align="center">
+  <b>I am Yousol 👋 </b>
   <b>I am studying to go to Sunrin Internet High School.</b>
 </p>
 
