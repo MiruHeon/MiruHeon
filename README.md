@@ -11,10 +11,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiruHeon&layout=compact" alt="Top Langs" width="35%" />
 </p>
 
-<table align="center">
-  <tr>
-    <!-- 왼쪽 텍스트 -->
-    <td style="vertical-align: top; padding-right: 20px;">
+<p align="center">
+
 ### Who Am I
 - 🌱 I am a student in South Korea.
 - 🥇 I like programming.
@@ -29,7 +27,8 @@
 - 📺 Programming
 - 🔵 Electronic Engineering
 - 🍕 Romance
-    </td>
+
+</p>
 
 <div align="center">
   <table>
