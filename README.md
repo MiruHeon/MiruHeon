@@ -15,14 +15,16 @@
 - 🔵 Electronic Engineering
 - 🍕 Romance
 
-<p align="center">
-  <b>I am studying to go to Sunrin Internet High School.</b>
-</p>
+I am studying to go to Sunrin Internet High School.</b>
+
+<br>
 
 <div style="display: flex; align-items: flex-start;">
   <img src="https://github-readme-stats.vercel.app/api?username=MiruHeon&show_icons=true&theme=radical" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiruHeon&layout=compact" width="35%" />
 </div>
+
+<br>
 
 <div align="center">
   <table>
