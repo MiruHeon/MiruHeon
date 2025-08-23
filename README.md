@@ -1,7 +1,3 @@
-<table>
-  <tr>
-    <!-- 왼쪽 텍스트 -->
-    <td style="vertical-align: top; padding-right: 20px;">
 # YOUSOL👋
 
 ### Who Am I
@@ -18,18 +14,15 @@
 - 📺 Programming
 - 🔵 Electronic Engineering
 - 🍕 Romance
-    </td>
 
-    <!-- 오른쪽 이미지 -->
-    <td style="vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api?username=MiruHeon&show_icons=true&theme=radical" alt="YOUSOL's GitHub stats" width="300" />
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiruHeon&layout=compact" alt="Top Langs" width="250"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <b>I am studying to go to Sunrin Internet High School.</b>
+</p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiruHeon&show_icons=true&theme=radical" alt="YOUSOL's GitHub stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiruHeon&layout=compact" alt="Top Langs" width="35%"/>
+</p>
 
 <div align="center">
   <table>
