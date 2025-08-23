@@ -6,7 +6,7 @@ I am studying to go to Sunrin Internet High School.
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=MiruHeon&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiruHeon&layout=compact" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiruHeon&layout=radical" width="35%" />
 </p>
 
 </div>
