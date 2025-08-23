@@ -4,21 +4,6 @@
 
 I am studying to go to Sunrin Internet High School.
 
-### Who Am I
-- 🌱 I am a student in South Korea.
-- 🥇 I like programming.
-- 🚅 I live in Seongbuk-gu.
-
-### Experience
-- 🎓 Hongik Middle School 'Code Wave' First Club Leader
-- 💊 Study Baekjun's Algorithm
-- 🌍 Sunrin Internet High School Preparation
-
-### What I Like
-- 📺 Programming
-- 🔵 Electronic Engineering
-- 🍕 Romance
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=MiruHeon&show_icons=true&theme=radical" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiruHeon&layout=compact" width="35%" />
