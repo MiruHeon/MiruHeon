@@ -1,23 +1,16 @@
-# YOUSOL👋
+<div align="center">
+  <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%A9%94%EC%9D%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80.png?raw=true" alt="이미지">
+</div>
 
-### Who Am I
-- 🌱 I am a student in South Korea.
-- 🥇 I like programming.
-- 🚅 I live in Seongbuk-gu.
+<div align="center">
+  <a href="https://solved.ac/kirias24">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kirias24" alt="Solved.ac 프로필"/>
+  </a>
+</div>
 
-### Experience
-- 🎓 Hongik Middle School 'Code Wave' First Club Leader
-- 💊 Study Baekjun's Algorithm
-- 🌍 Sunrin Internet High School Preparation
-
-### What I Like
-- 📺 Programming
-- 🔵 Electronic Engineering
-- 🍕 Romance
-
-I am studying to go to Sunrin Internet High School.</b>
-
-<br>
+<p align="center">
+  <b>I am studying to go to Sunrin Internet High School.</b>
+</p>
 
 <div align="center">
   <table>
@@ -63,12 +56,6 @@ I am studying to go to Sunrin Internet High School.</b>
 
 <br>
 
-<div align="center">
-  <a href="https://solved.ac/kirias24">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kirias24" alt="Solved.ac 프로필"/>
-  </a>
-</div>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MiruHeon&show_icons=true&theme=radical" alt="YOUSOL's GitHub stats" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiruHeon&layout=compact" alt="Top Langs" width="35%" />
@@ -84,10 +71,6 @@ I am studying to go to Sunrin Internet High School.</b>
 <p align="center" style="font-weight: 500;">
   홍대부중 프레젠테이션 대회 부분 동상
 </p>
-
-<div align="center">
-  <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%A9%94%EC%9D%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80.png?raw=true" alt="이미지">
-</div>
 
 
 
