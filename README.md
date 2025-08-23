@@ -57,7 +57,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MiruHeon/Normal-Project/e95ac0296b3a7efdf6fd24ae20e36e335089b38d/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
 
