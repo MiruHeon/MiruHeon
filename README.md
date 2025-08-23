@@ -1,28 +1,25 @@
+<center># YOUSOL👋</center>
+<center>I am studying to go to Sunrin Internet High School.</center>
+
+<center>### Who Am I</center>
+<center>🌱 I am a student in South Korea.</center>
+<center>🥇 I like programming.</center>
+<center>🚅 I live in Seongbuk-gu.</center>
+
+<center>### Experience</center>
+<center>🎓 Hongik Middle School 'Code Wave' First Club Leader</center>
+<center>💊 Study Baekjun's Algorithm</center>
+<center>🌍 Sunrin Internet High School Preparation</center>
+
+<center>### What I Like</center>
+<center>📺 Programming</center>
+<center>🔵 Electronic Engineering</center>
+<center>🍕 Romance</center>
+
 <div align="center">
-
-# YOUSOL👋
-
-I am studying to go to Sunrin Internet High School.
-
-### Who Am I
-🌱 I am a student in South Korea.
-🥇 I like programming.
-🚅 I live in Seongbuk-gu.
-
-### Experience
-🎓 Hongik Middle School 'Code Wave' First Club Leader
-💊 Study Baekjun's Algorithm
-🌍 Sunrin Internet High School Preparation
-
-### What I Like
-📺 Programming
-🔵 Electronic Engineering
-🍕 Romance
-
-<p>
   <img src="https://github-readme-stats.vercel.app/api?username=MiruHeon&show_icons=true&theme=radical" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiruHeon&layout=compact" width="35%" />
-</p>
+</div>
 
 </div>
 
