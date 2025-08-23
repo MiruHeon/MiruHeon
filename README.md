@@ -19,13 +19,6 @@ I am studying to go to Sunrin Internet High School.</b>
 
 <br>
 
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiruHeon&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiruHeon&layout=compact" width="35%" />
-</div>
-
-<br>
-
 <div align="center">
   <table>
     <tr>
@@ -75,6 +68,11 @@ I am studying to go to Sunrin Internet High School.</b>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kirias24" alt="Solved.ac 프로필"/>
   </a>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiruHeon&show_icons=true&theme=radical" alt="YOUSOL's GitHub stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiruHeon&layout=compact" alt="Top Langs" width="35%" />
+</p>
 
 <br>
 
