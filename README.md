@@ -14,11 +14,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Currently attending Hongik Middle School!<br>📚 Studying algorithms!<br>🎯 I love my friends!<br>🎲 Fun fact: Preparing for Sunrin Internet High School</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Technology</h2>
 
 ###
 
