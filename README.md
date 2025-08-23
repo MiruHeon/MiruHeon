@@ -1,3 +1,5 @@
+<div align="center">
+
 # YOUSOL👋
 
 I am studying to go to Sunrin Internet High School.
@@ -17,10 +19,12 @@ I am studying to go to Sunrin Internet High School.
 - 🔵 Electronic Engineering
 - 🍕 Romance
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiruHeon&show_icons=true&theme=radical" alt="YOUSOL's GitHub stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiruHeon&layout=compact" alt="Top Langs" width="35%" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=MiruHeon&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiruHeon&layout=compact" width="35%" />
 </p>
+
+</div>
 
 <div align="center">
   <table>
