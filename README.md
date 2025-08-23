@@ -11,6 +11,26 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiruHeon&layout=compact" alt="Top Langs" width="35%" />
 </p>
 
+<table align="center">
+  <tr>
+    <!-- 왼쪽 텍스트 -->
+    <td style="vertical-align: top; padding-right: 20px;">
+### Who Am I
+- 🌱 I am a student in South Korea.
+- 🥇 I like programming.
+- 🚅 I live in Seongbuk-gu.
+
+### Experience
+- 🎓 Hongik Middle School 'Code Wave' First Club Leader
+- 💊 Study Baekjun's Algorithm
+- 🌍 Sunrin Internet High School Preparation
+
+### What I Like
+- 📺 Programming
+- 🔵 Electronic Engineering
+- 🍕 Romance
+    </td>
+
 <div align="center">
   <table>
     <tr>
