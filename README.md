@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Hello! I'm live in Republic of Korea and I'm student in Hongik Middle School.</p>
 
 ###
 
