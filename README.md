@@ -2,7 +2,7 @@
   <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%A9%94%EC%9D%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80.png?raw=true" alt="이미지">
 </div>
 
-<h1 align="left">Hi 👋 This is YOUSOL's Github</h1>
+<h1 align="left">YOUSOL👋</h1>
 
 ###
 
