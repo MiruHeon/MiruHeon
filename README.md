@@ -1,36 +1,33 @@
-<!-- 프로필 이미지 -->
 <div align="center">
-  <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%A9%94%EC%9D%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80.png?raw=true" alt="프로필 이미지" width="200px" />
+  <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%A9%94%EC%9D%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80.png?raw=true" alt="이미지">
 </div>
 
-<!-- 소개 문구 -->
 <p align="center">
   <b>I am studying to go to Sunrin Internet High School.</b>
 </p>
 
-<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiruHeon&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiruHeon&layout=compact" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MiruHeon&show_icons=true&theme=radical" alt="YOUSOL's GitHub stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiruHeon&layout=compact" alt="Top Langs" width="35%" />
 </p>
 
 <!-- 자기소개 -->
 <div align="center">
 
 ### Who Am I
-- 🌱 I am a student in South Korea.
-- 🥇 I like programming.
-- 🚅 I live in Seongbuk-gu.
+🌱 I am a student in South Korea.
+🥇 I like programming.
+🚅 I live in Seongbuk-gu.
 
 ### Experience
-- 🎓 Hongik Middle School 'Code Wave' First Club Leader
-- 💊 Study Baekjun's Algorithm
-- 🌍 Sunrin Internet High School Preparation
+🎓 Hongik Middle School 'Code Wave' First Club Leader
+💊 Study Baekjun's Algorithm
+🌍 Sunrin Internet High School Preparation
 
 ### What I Like
-- 📺 Programming
-- 🔵 Electronic Engineering
-- 🍕 Romance
+📺 Programming
+🔵 Electronic Engineering
+🍕 Romance
 
 </div>
 
