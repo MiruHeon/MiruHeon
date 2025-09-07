@@ -73,3 +73,6 @@
 <p align="center" style="font-weight: 500;">
   홍대부중 프레젠테이션 대회 부분 동상
 </p>
+<p align="center" style="font-weight: 500;">
+  홍대부중 정보화경진대회 금상
+</p>
