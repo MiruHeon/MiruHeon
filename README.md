@@ -2,7 +2,9 @@
 
 <h1 align="left">YOUSOL👋</h1>
 
-<img src="https://github.com/MiruHeon/Normal-Project/blob/main/Hongik2025poster.png?raw=true" alt="2025코드웨이브 홍익제 부스 홍보용" />
+<img src="https://github.com/MiruHeon/Normal-Project/blob/main/Hongik2025poster.png?raw=true" 
+     alt="2025코드웨이브 홍익제 부스 홍보용" 
+     width="400" />
 
 ###
 
