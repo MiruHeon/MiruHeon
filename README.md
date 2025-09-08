@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:fffbc1,100:d6fcbf&height=300&section=header&text=YOUSOL&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:e0ff8f,100:afff4f&height=300&section=header&text=YOUSOL&fontSize=90)
 
 <h1 align="left">YOUSOL👋</h1>
 
