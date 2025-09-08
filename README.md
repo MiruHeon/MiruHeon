@@ -2,6 +2,8 @@
 
 <h1 align="left">YOUSOL👋</h1>
 
+<img src="https://github.com/MiruHeon/Normal-Project/blob/main/Hongik2025poster.png?raw=true" alt="2025코드웨이브 홍익제 부스 홍보용" />
+
 ###
 
 <p align="left">Hello! I'm live in Republic of Korea and I'm student in Hongik Middle School. (안녕하세요! 저는 한국에 살고, 홍익중에 재학중입니다.)</p>
