@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:c0ff9f,100:70ffc8&height=300&section=header&text=YOUSOL&fontSize=90)
 
-<img src="https://github.com/MiruHeon/Normal-Project/blob/main/Hongik2025poster.png?raw=true" 
-     alt="2025코드웨이브 홍익제 부스 홍보용" 
-     width="600" />
+<div style="text-align: center;">
+    <img src="https://github.com/MiruHeon/Normal-Project/blob/main/Hongik2025poster.png?raw=true" 
+         alt="2025코드웨이브 홍익제 부스 홍보용" 
+         width="600" />
+</div>
 
 <h1 align="left">YOUSOL👋</h1>
 
