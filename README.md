@@ -6,7 +6,7 @@
        width="600" />
 </p>
 
-<h1 align="left">YOUSOL👋</h1>
+<h1 align="left">YOUSOL</h1>
 
 ###
 
