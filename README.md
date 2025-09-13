@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hello! I'm live in Republic of Korea and I'm student in Hongik Middle School. (안녕하세요! 저는 한국에 살고, 홍익중에 재학중입니다.)</p>
+<p align="left">서울사는 유솔이라고 합니다.</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✨ Currently attending Hongik Middle School!(홍익중에 다닌다!)<br>📚 Studying algorithms!(알고리즘을 공부한다!)<br>🎯 I love my friends!(친구들을 사랑한다!)<br>🎲 Fun fact: Preparing for Sunrin Internet High School!(선린인고 입학을 준비한다!)</p>
+<p align="left">✨ 홍대부중에 2학년으로 재학하는 중~<br>📚 알고리즘 공부 중~<br>🎯 친구들과 우정을 나누는 중~<br>🎲 선린인고 소프트웨어과 입학을 준비 중~</p>
 
 ###
 
