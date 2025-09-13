@@ -72,7 +72,7 @@
 <h2 align="center">Award</h2>
 
 <p align="center" style="font-weight: 500;">
-  홍대부중 1대 코드웨이브 회장
+  홍대부중 1~2대 코드웨이브 회장
 </p>
 <p align="center" style="font-weight: 500;">
   홍대부중 프레젠테이션 대회 부분 동상
