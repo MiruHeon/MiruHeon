@@ -79,3 +79,6 @@
 <p align="center" style="font-weight: 500;">
   홍대부중 정보화경진대회 동상
 </p>
+<p align="center" style="font-weight: 500;">
+  홍대부중 홍익영화제 2등(사실상 1등) 및 편집상 수상
+</p>
