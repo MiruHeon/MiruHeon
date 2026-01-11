@@ -82,3 +82,6 @@
 <p align="center" style="font-weight: 500;">
   홍대부중 홍익영화제 우수상 및 편집상
 </p>
+<p align="center" style="font-weight: 500;">
+  홍대부중 동아리 활동 모범상 (금상)
+</p>
