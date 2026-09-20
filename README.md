@@ -5,7 +5,6 @@
 ###
 
 <p align="left">항공 임베디드 엔지니어</p>
-[포트폴리오 링크](https://www.figma.com/deck/RAZdKnYdYQrs0v8wbXeYRD/%EC%9A%A9%ED%97%8C%EC%9D%B4%EC%9D%98-%EC%97%84%EC%B2%AD%EB%82%9C-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?node-id=2-1220&t=hpHcybl6IgJ3Oo3G-1)
 
 ###
 
