@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:c0ff9f,100:70ffc8&height=300&section=header&text=YOUSOL&fontSize=90)
-
 <h1 align="left">YOUSOL</h1>
 
 ###
