@@ -27,6 +27,17 @@
   MCU/MPU(Embedded)<br>
 </div>
 
+<h2 align="left">Studying</h2>
+
+###
+
+<div align="left">
+  Aerospace Engineering<br>
+  Pysical<br>
+  Electronic Engineering<br>
+  Computer Science<br>
+</div>
+
 <br>
 
 <div align="center">
