@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  Primary Language(Python, C, C++, Rust, JAVA), Other Language(JavaScript/TypeScript, HTML, CSS), Linux(Ubuntu), Figma, Flask, MCU/MPU(Embedded)
+  Primary Language(Python, C, C++, Rust, JAVA)<br>Other Language(JavaScript/TypeScript, HTML, CSS)<br>Linux(Ubuntu)<br>Figma<br>Flask<br>MCU/MPU(Embedded)
 </div>
 
 <br>
