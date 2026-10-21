@@ -24,7 +24,6 @@
   Linux(Ubuntu)<br>
   Figma<br>
   Nextjs/React/Flask<br>
-  Nginx<br>
   MCU/MPU(Embedded)<br>
 </div>
 
