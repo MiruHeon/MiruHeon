@@ -33,7 +33,7 @@
 
 <div align="left">
   Aerospace Engineering<br>
-  Pysical<br>
+  Physics<br>
   Electronic Engineering<br>
   Computer Science<br>
 </div>
