@@ -6,14 +6,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">- 홍대부중 3학년<br>- 선린인고 정보과 준비중</p>
-
-###
-
 <h2 align="left">Technology</h2>
 
 ###
