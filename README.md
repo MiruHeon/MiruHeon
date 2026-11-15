@@ -28,7 +28,6 @@
   Physics<br>
   Electronic Engineering<br>
   Computer Science<br>
-  Web/System Hacking(Dreamhack)
 </div>
 
 <br>
@@ -46,21 +45,3 @@
 ###
 
 <br>
-
-<h2 align="center">Award</h2>
-
-<p align="center" style="font-weight: 500;">
-  홍대부중 1~2대 코드웨이브 회장
-</p>
-<p align="center" style="font-weight: 500;">
-  홍대부중 프레젠테이션 대회 부분 동상
-</p>
-<p align="center" style="font-weight: 500;">
-  홍대부중 정보화경진대회 동상
-</p>
-<p align="center" style="font-weight: 500;">
-  홍대부중 홍익영화제 우수상 및 편집상
-</p>
-<p align="center" style="font-weight: 500;">
-  홍대부중 동아리 활동 모범상 (금상)
-</p>
