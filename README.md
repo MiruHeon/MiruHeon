@@ -1,10 +1,6 @@
 <div align="center">
   <img src="https://github.com/MiruHeon/Normal-Project/blob/main/f-15k.png?raw=true" width="800px">
   <br>
-  
-  <h1>About me</h1>
-  SRIHS 122th Infosec
-
   <h1>Just Studying..</h1>
   
   ![My Skills](https://skillicons.dev/icons?i=c,cpp,py,arduino,linux,vscode,windows&theme=dark)
