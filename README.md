@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/MiruHeon/Normal-Project/blob/main/f-15k.png?raw=true" width="800px">
+  <img src="https://github.com/MiruHeon/Normal-Project/blob/main/f-15kk.jpg?raw=true" width="800px">
   <br>
   <h1>Just Studying..</h1>
   
