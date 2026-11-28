@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://github.com/MiruHeon/Normal-Project/blob/main/f-15k.png?raw=true" width="800px">
   <br>
+  
+  <h1>About me</h1>
   SRIHS 122th Infosec
 
   <h1>Just Studying..</h1>
