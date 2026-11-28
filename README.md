@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/MiruHeon/Normal-Project/blob/main/f-15k3.jpg?raw=true" width="800px">
   <br>
-  <h1>Just Studying..</h1>
+  ---
   
   ![My Skills](https://skillicons.dev/icons?i=c,cpp,py,arduino,linux,vscode,windows&theme=dark)
   <br>
