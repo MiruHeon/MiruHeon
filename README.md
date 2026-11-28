@@ -4,5 +4,6 @@
   <h1>Stack</h1>
   
   [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,arduino,linux,vscode,windows&theme=dark)](https://skillicons.dev)
+  <br>
   [![My Skills](https://skillicons.dev/icons?i=figma,fastapi,discord,flask,docker,notion,react,nextjs&theme=dark)](https://skillicons.dev)
 </div>
