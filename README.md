@@ -3,7 +3,6 @@
   <br>
   
   <h1>About me</h1>
-  HUMS Codewave Club Manager
   SRIHS 122th Infosec
 
   <h1>Just Studying..</h1>
