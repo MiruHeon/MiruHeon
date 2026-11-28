@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Tech</h1>
+  <h1>Studying</h1>
   
   ![My Skills](https://skillicons.dev/icons?i=c,cpp,py,arduino,linux,vscode,windows&theme=dark)
   <br>
